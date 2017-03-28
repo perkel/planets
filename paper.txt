@@ -4,3 +4,10 @@ More text
 And more lines
 
 Author: David J. Perkel 
+
+Add some code
+
+def myAddition(a, b):
+    return a+b
+
+
