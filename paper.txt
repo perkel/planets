@@ -10,4 +10,7 @@ Add some code
 def myAddition(a, b):
     return a+b
 
+def myMultiplication(a, b):
+    return a*b
+
 
